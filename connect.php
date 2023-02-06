@@ -9,7 +9,7 @@
     <?php
     $serverName = 'localhost';
     $userName = 'root';
-    $userPassword = '12345678'; //Lab room 408 or 409 - 12345678
+    $userPassword = ''; //Lab room 408 or 409 - 12345678
     $dbname = 'business';
 
     try {
